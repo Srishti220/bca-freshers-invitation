@@ -552,7 +552,7 @@ function App() {
                 </p>
 
                 <h3>
-                  To Be Announced
+                  12pm
                 </h3>
 
                 <small>
@@ -584,7 +584,7 @@ function App() {
                 </p>
 
                 <h3>
-                  To Be Announced
+                  A308
                 </h3>
 
                 <small>
