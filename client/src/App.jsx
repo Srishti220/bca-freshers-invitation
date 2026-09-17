@@ -113,7 +113,7 @@ function App() {
 
     try {
       const response = await fetch(
-        ""https://bca-freshers-invitation.onrender.com/api/rsvp",",
+        "https://bca-freshers-invitation.onrender.com/api/rsvp",
         {
           method: "POST",
           headers: {
